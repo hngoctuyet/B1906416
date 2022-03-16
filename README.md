@@ -3,8 +3,7 @@
 - Mã số sinh viên: *B1906416*
 - Mã lớp: *DI1995A2*
 # THÔNG TIN BÀI TẬP NHÓM
-## CÁC THÀNH VIÊN
-**Giảng viên hướng dẫn:** TS.Nguyễn Thanh Hải
+**Giảng viên hướng dẫn:** TS.Nguyễn Thanh Hải\
 **Thành viên nhóm:**
    1. Phan Thị Thanh Thùy B1906406
    2. Mai Lê Bích Tuyền B1906417
